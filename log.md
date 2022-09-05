@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 1: September 4, 2022 
+### Day 1: September 4 & 6, 2022 
 
 
-**Today's Progress**: Learnt about Git & Github, solved sum of integer program on Leetcode.
+**Today's Progress**: Learnt about Git & Github, solved sum of integer program and palindrome program on Leetcode.
 
 **Thoughts:** I really struggled with this question, i approached it with user friendly approach, added input functionality, but there were multiple errors, i wrote about 17 lines of code but in the discussion section people solved the same in 3 lines!
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
