@@ -1,13 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 4, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Learnt about Git & Github, solved sum of integer program on Leetcode.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I really struggled with this question, i approached it with user friendly approach, added input functionality, but there were multiple errors, i wrote about 17 lines of code but in the discussion section people solved the same in 3 lines!
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
